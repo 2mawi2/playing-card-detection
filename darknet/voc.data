@@ -1,4 +1,4 @@
-classes= 52
+classes= 1
 train  = ../data/train.txt
 valid  = ../data/val.txt
 names = ../data/cards.names
